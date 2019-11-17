@@ -10,7 +10,6 @@ enter
 
     rails console
 
-    require 'to_do_ar'
 
 ## List of available commands
 
